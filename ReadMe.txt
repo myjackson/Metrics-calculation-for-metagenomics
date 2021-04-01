@@ -1,6 +1,6 @@
 ################### 2020. June 19 ######################
 # Author: Jangwoo Lee, Eawag & ETH Zurich (as of 2020)
-# Related publication: To be updated... (the manuscript in preparation)
+# Related publication: Lee et al., (2021) Water Research, 197, 117050 - DOI: https://doi.org/10.1016/j.watres.2021.117050
 # Contact information: jangwoo.lee@eawag.ch or myjackson@naver.com
 
 # The following datasets are required as a starting point
@@ -25,6 +25,6 @@ The coverage for each ORF was calculated following the reference:
 - Albertsen, M., Hugenholtz, P., Skarshewski, A., Nielsen, K.L., Tyson, G.W. and Nielsen, P.H. (2013) Genome sequences of rare, uncultured bacteria obtained by differential coverage binning of multiple metagenomes. Nature biotechnology 31(6), 533
 
 This codes were written by Jangwoo Lee referring to the following references in terms of concepts on quantitative metagenome metrics:
-- Ju, F., Beck, K., Yin, X., Maccagnan, A., McArdell, C.S., Singer, H.P., Johnson, D.R., Zhang, T. and Bürgmann, H. (2019) Wastewater treatment plant resistomes are shaped by bacterial composition, genetic exchange, and upregulated expression in the effluent microbiomes. The ISME journal 13(2), 346-360.
+- Ju, F., Beck, K., Yin, X., Maccagnan, A., McArdell, C.S., Singer, H.P., Johnson, D.R., Zhang, T. and BÃ¼rgmann, H. (2019) Wastewater treatment plant resistomes are shaped by bacterial composition, genetic exchange, and upregulated expression in the effluent microbiomes. The ISME journal 13(2), 346-360.
 - Li, B. and Dewey, C.N. (2011) RSEM: accurate transcript quantification from RNA-Seq data with or without a reference genome. BMC bioinformatics 12(1), 323.
 - Katz, Y., Wang, E.T., Airoldi, E.M. and Burge, C.B. (2010) Analysis and design of RNA sequencing experiments for identifying isoform regulation. Nature methods 7(12), 1009.
