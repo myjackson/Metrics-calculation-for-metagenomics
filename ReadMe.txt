@@ -24,7 +24,7 @@
 The coverage for each ORF was calculated following the reference:
 - Albertsen, M., Hugenholtz, P., Skarshewski, A., Nielsen, K.L., Tyson, G.W. and Nielsen, P.H. (2013) Genome sequences of rare, uncultured bacteria obtained by differential coverage binning of multiple metagenomes. Nature biotechnology 31(6), 533
 
-This codes were written by Jangwoo Lee referring to the following references in terms of concepts on quantitative metagenome metrics:
+These codes were written by Jangwoo Lee (Ref. https://doi.org/10.1016/j.watres.2021.117050) referring to the following other publications in terms of concepts on quantitative metagenome metrics:
 - Ju, F., Beck, K., Yin, X., Maccagnan, A., McArdell, C.S., Singer, H.P., Johnson, D.R., Zhang, T. and Bürgmann, H. (2019) Wastewater treatment plant resistomes are shaped by bacterial composition, genetic exchange, and upregulated expression in the effluent microbiomes. The ISME journal 13(2), 346-360.
 - Li, B. and Dewey, C.N. (2011) RSEM: accurate transcript quantification from RNA-Seq data with or without a reference genome. BMC bioinformatics 12(1), 323.
 - Katz, Y., Wang, E.T., Airoldi, E.M. and Burge, C.B. (2010) Analysis and design of RNA sequencing experiments for identifying isoform regulation. Nature methods 7(12), 1009.
